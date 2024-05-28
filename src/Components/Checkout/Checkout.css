@@ -1,0 +1,20 @@
+.success-message {
+    position: fixed;
+    top: 90px; /* Adjust top position as needed */
+    right: -200px; /* Initial position outside the card */
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    animation: slideIn 0.5s forwards; /* Animation to slide in the message */
+  }
+  
+  @keyframes slideIn {
+    from {
+      right: -200px; /* Initial position outside the card */
+    }
+    to {
+      right: 10px; /* Final position outside the card */
+    }
+  }
+  

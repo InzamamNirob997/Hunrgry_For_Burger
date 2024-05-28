@@ -1,0 +1,22 @@
+.Navigation {
+    margin-bottom: 50px;
+}
+
+.Brand {
+    color: white;
+    margin-top: -20px;
+    font-size: 15px; /* Added 'px' for units */
+}
+
+.NavLink {
+    font-size: 21px;
+    color: white;
+    margin-top: -25px;
+    text-decoration: none;
+    padding: 20px;
+    font-style: italic;
+}
+
+.NavLink:hover {
+    color: wheat;
+}

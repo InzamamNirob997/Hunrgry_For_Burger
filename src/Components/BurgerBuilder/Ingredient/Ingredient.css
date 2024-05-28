@@ -1,0 +1,12 @@
+.Ingredient{
+    text-align: center;
+    margin: 5px;
+}
+
+.img1 {
+   max-width:100%;
+   height: auto;
+   object-fit: contain;
+  
+
+}
