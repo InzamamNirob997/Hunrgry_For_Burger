@@ -111,6 +111,7 @@ const Checkout = (props) => {
                 >
                   <option value="Cash On Delivery">Cash On Delivery</option>
                   <option value="Bkash">Bkash</option>
+                  <option value="Upay">Upay</option>
                 </select>
               </div>
               <div style={{ display: 'flex', justifyContent: 'center' }}>
